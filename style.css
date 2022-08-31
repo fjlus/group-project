@@ -29,6 +29,7 @@ main h2 {
     color: hotpink;
     background-color: black;
     padding: 3px;
+    border: Spx solid red;
 }
 
 .code-ninja-style {
@@ -38,7 +39,7 @@ main h2 {
 }
 .my-style{
     color:aquamarine
-    background-color:black
+    background-color: black
     padding: 3px;
 }
 
@@ -48,6 +49,7 @@ main h2 {
 
 .stans-styles {
     background-color:lightgray;
+
 }
 
 .my-bio {
