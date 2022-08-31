@@ -36,6 +36,9 @@ main h2 {
     background-color: lightblue;
     padding: 3px;
 }
+.my-style{
+    color:aquamarine
+}
 
 .codys-styles {
     background:rgb(92, 149, 235);
